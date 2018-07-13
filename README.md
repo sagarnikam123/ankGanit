@@ -1,6 +1,6 @@
 # ankGanit
 
-A terminal based, mathematical playful game.
+A terminal based, mathematical playful game with colored indications.
 
 - Addition
 - Substration
